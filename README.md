@@ -14,9 +14,6 @@
 
 ## 📸 Огляд проекту (Screenshots)
 
-| Головна сторінка (Афіша) | Сторінка Школи (Ціни) | Модальне вікно купівлі |
-|:---:|:---:|:---:|
-| ![Main Page](image_19.png) | ![School Page](image_29.png)
 <img width="1723" height="855" alt="Zrzut ekranu 2025-11-29 182741" src="https://github.com/user-attachments/assets/a033853b-48ca-49f4-a9b5-336ec85a17d2" />
 <img width="1721" height="855" alt="Zrzut ekranu 2025-11-29 182658" src="https://github.com/user-attachments/assets/98c1f857-f16e-459f-948d-1ff9f207f654" />
 
